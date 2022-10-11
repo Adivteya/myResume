@@ -1,0 +1,95 @@
+body{
+	font-family: poppins;
+	margin-left:22%;
+	margin-right:22%;
+	min-width:1024px;
+	background-color:#eff7fa;
+}
+a{
+	color:white;
+	text-decoration: none;
+}
+
+#top{
+	background-color:rgb(12, 56, 96);
+	padding:20px;
+}
+
+#top-info{
+	text-align:left;
+	color:white;
+	margin-left:10px;
+}
+
+#maininfo{
+	background-color:white;
+	width:auto;
+	padding-left:30px;
+	padding-right:30px;
+	padding-bottom:30px;
+	padding-top:5px;
+	margin-top:0px;
+}
+
+#key_skills{
+	background-color:white;
+	margin-left:20px;
+	float:left;
+	width:95%;
+}
+
+#picture{
+	width:30%;
+	border-radius:50%;
+	float:right;
+	margin-right:30px;
+}
+
+#profile{
+	float:right;
+}
+
+#icon{
+	width:2%;
+}
+
+#dates{
+	background-color:white;
+	float:right;
+	text-align:right;
+	margin-right:30px;
+}
+
+#technologies{
+	background-color:white;
+	float:right;
+	text-align:right;
+	margin-right:30px;
+	font-weight:bold;
+}
+
+#line{
+	background-color:rgb(12, 56, 96);
+	height:1.5px;
+	width:100%;
+	margin-top:0px;
+}
+
+#name{
+	text-align:justify;
+	color:white;
+	font-size:38px;
+	
+}
+
+#btn{
+	background-color:rgb(12, 56, 96);
+	border: none;
+	color: white;
+	padding: 10px 22px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 15px;
+	border-radius:6px;
+}
